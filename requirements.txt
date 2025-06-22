@@ -1,0 +1,15 @@
+setuptools~=78.1.0
+pandas~=2.2.2
+seaborn~=0.13.0
+matplotlib~=3.7.4
+scikit-learn~=1.6.1
+scikit-learn-extra~=0.3.0
+prophet~=1.1.6
+scipy~=1.13.0
+yellowbrick~=1.5
+numpy~=1.26.4
+statsmodels~=0.14.1
+psycopg2-binary~=2.9.9
+python-decouple~=3.8
+plotly~=6.0.1
+mpld3~=0.5.10
